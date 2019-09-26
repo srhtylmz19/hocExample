@@ -1,11 +1,10 @@
 
 import React from 'react';
-import Deneme from './Deneme';
-
+import Login from './src/index'
 class App extends React.Component {
   render(){
     return (
-     <Deneme/>
+     <Login/>
     );
   }
   

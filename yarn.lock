@@ -4264,6 +4264,10 @@ react-is@^16.8.1, react-is@^16.8.4:
   version "16.9.0"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.9.0.tgz#21ca9561399aad0ff1a7701c01683e8ca981edcb"
 
+react-native-svg@^9.9.5:
+  version "9.9.5"
+  resolved "https://registry.yarnpkg.com/react-native-svg/-/react-native-svg-9.9.5.tgz#5f9fa196ac78ac10c0ce85152e429dba98353904"
+
 react-native@0.61.0:
   version "0.61.0"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.61.0.tgz#e9fc06cd9976295b11f7f1f72e4b840f0edd5d8e"
